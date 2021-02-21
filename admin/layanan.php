@@ -38,7 +38,7 @@
                     <td><?= "Rp. ".number_format($row['harga_layanan']) ." ,-"; ?></td>
                     <td>
 							<a href="index.php?halaman=edit_layanan&id=<?= $row['id_layanan']; ?>" class="btn btn-info"><i class="fa fa-pencil">Edit</a></i>
-							<a href="index.php?halaman=delete_layanan&id=<?= $row['id_layanan']; ?>" class="btn btn-danger"><i class="fa fa-trash">Hapus</a></i>
+							<a href="index.php?halaman=delete_layanan&id=<?= $row['id_layanan']; ?>" class="btn btn-danger"><i class="fa fa-trash">Delete</a></i>
                     
                     </td>                
                 </tr>
