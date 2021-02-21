@@ -77,7 +77,7 @@ $detail=$ambil->fetch_assoc();
         </div>
 
         <div class="col-md-4">
-            <h3>Nama Pelanggan</h3>
+            <h3>Nama Pelanggan Laundry</h3>
             <strong><?= $detail['nama_pelanggan']; ?></strong><br>
             <?= $detail['no_telp_pelanggan']; ?><br>
             <?= $detail['alamat_pelanggan']; ?>
