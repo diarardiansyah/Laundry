@@ -68,7 +68,7 @@
 						</td>
 						<td>
 							<br/>
-							<input type="submit" class="btn btn-primary" value="Filter">
+							<input type="submit" class="btn btn-success" value="Filter">
 						</td>
 					</tr>
 
