@@ -18,8 +18,7 @@
 </head>
 <body>
 
-<h2>Login Form </h2>
-
+<h1>Form Login</h1>
 <?php
     
 		if(isset($_GET['pesan'])){
