@@ -90,7 +90,7 @@
     </div>
 		<div class="box-body">
                 
-                <a target="_blank" href="cetak_laporan.php?dari=<?php echo $dari; ?>&sampai=<?php echo $sampai; ?>" class="btn btn-sm btn-primary"><i class="menu-icon fa fa-print"></i>CETAK</a>
+                <a target="_blank" href="cetak_laporan.php?dari=<?php echo $dari; ?>&sampai=<?php echo $sampai; ?>" class="btn btn-sm btn-danger"><i class="menu-icon fa fa-print"></i>CETAK</a>
 		        <br>
             <br>
 			
