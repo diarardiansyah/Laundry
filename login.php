@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Login Form Sistem Informasi Laundry</title>
+	<title>Form Login Sistem Informasi Laundry</title>
     <style>
     
     .alert{
